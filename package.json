@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/teraco/first_nodejs#readme",
   "dependencies": {
+    "eslint": "^5.16.0",
     "puppeteer": "^1.11.0"
   }
 }
